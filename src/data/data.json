@@ -1,0 +1,279 @@
+{
+  "users": [
+    {
+      "id": "f1",
+      "title": "Kashmiri Apples (1 kg)",
+      "name": "FarmFresh Co.",
+      "price": 149,
+      "img": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg",
+      "img1": "https://images.pexels.com/photos/39803/pexels-photo-39803.jpeg",
+      "img2": "https://images.pexels.com/photos/1453713/pexels-photo-1453713.jpeg",
+      "img3": "https://images.pexels.com/photos/574919/pexels-photo-574919.jpeg",
+      "dis": "Crisp, juicy apples sourced from Kashmir’s orchards.",
+      "category": "Fruits",
+      "rating": 4.6,
+      "stock": 120,
+      "brand": "Himalayan Orchards",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Riya",
+          "comment": "Very fresh and crunchy!",
+          "rating": 5
+        },
+        {
+          "user": "Sam",
+          "comment": "Good quality for the price.",
+          "rating": 4
+        },
+        {
+          "user": "vivek",
+          "comment": "nice prouduct",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "f2",
+      "title": "Bananas Robusta (1 Dozen)",
+      "name": "Sunny Farms",
+      "price": 69,
+      "img": "https://images.pexels.com/photos/41957/banana-tropical-fruit-yellow-ripe-41957.jpeg",
+      "img1": "https://images.pexels.com/photos/461208/pexels-photo-461208.jpeg",
+      "img2": "https://images.pexels.com/photos/208450/pexels-photo-208450.jpeg",
+      "img3": "https://images.pexels.com/photos/357742/pexels-photo-357742.jpeg",
+      "dis": "Naturally sweet bananas, perfect for shakes and snacks.",
+      "category": "Fruits",
+      "rating": 4.4,
+      "stock": 200,
+      "brand": "Sunny Farms",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Mehul",
+          "comment": "Sweet and no spots.",
+          "rating": 4
+        },
+        {
+          "user": "Asha",
+          "comment": "Great for breakfast!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "f3",
+      "title": "Nagpur Oranges (1 kg)",
+      "name": "Citrus Valley",
+      "price": 129,
+      "img": "https://images.pexels.com/photos/327098/pexels-photo-327098.jpeg",
+      "img1": "https://images.pexels.com/photos/1757281/pexels-photo-1757281.jpeg",
+      "img2": "https://images.pexels.com/photos/1233319/pexels-photo-1233319.jpeg",
+      "img3": "https://images.pexels.com/photos/2255935/pexels-photo-2255935.jpeg",
+      "dis": "Juicy, vitamin-C rich oranges straight from Nagpur.",
+      "category": "Citrus",
+      "rating": 4.5,
+      "stock": 85,
+      "brand": "Citrus Valley",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Neha",
+          "comment": "Very juicy!",
+          "rating": 5
+        },
+        {
+          "user": "Karan",
+          "comment": "Good but a few were small.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "f4",
+      "title": "Thompson Seedless Grapes (500 g)",
+      "name": "GreenVine",
+      "price": 119,
+      "img": "https://images.pexels.com/photos/14001777/pexels-photo-14001777.jpeg",
+      "img1": "https://images.pexels.com/photos/2914874/pexels-photo-2914874.jpeg",
+      "img2": "https://images.pexels.com/photos/1085165/pexels-photo-1085165.jpeg",
+      "img3": "https://images.pexels.com/photos/708777/pexels-photo-708777.jpeg",
+      "dis": "Crisp, seedless green grapes — perfect for snacking.",
+      "category": "Grapes",
+      "rating": 4.3,
+      "stock": 140,
+      "brand": "GreenVine",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Rohit",
+          "comment": "Clean and crunchy.",
+          "rating": 4
+        },
+        {
+          "user": "Isha",
+          "comment": "Kids loved them!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "f5",
+      "title": "Pomegranate (Anar) (1 kg)",
+      "name": "Ruby Farms",
+      "price": 199,
+      "img": "https://images.pexels.com/photos/264537/pexels-photo-264537.jpeg",
+      "img1": "https://images.pexels.com/photos/396348/pexels-photo-396348.jpeg",
+      "img2": "https://images.pexels.com/photos/615704/pexels-photo-615704.jpeg",
+      "img3": "https://images.pexels.com/photos/129863/pexels-photo-129863.jpeg",
+      "dis": "Deep red arils, rich in antioxidants and flavour.",
+      "category": "Fruits",
+      "rating": 4.7,
+      "stock": 60,
+      "brand": "Ruby Farms",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Divya",
+          "comment": "Bright and sweet arils!",
+          "rating": 5
+        },
+        {
+          "user": "Abhi",
+          "comment": "Good but slightly pricey.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "f6",
+      "title": "Alphonso Mangoes (2 kg Box)",
+      "name": "Konkan Gold",
+      "price": 899,
+      "img": "https://images.pexels.com/photos/1132047/pexels-photo-1132047.jpeg",
+      "img1": "https://images.pexels.com/photos/918643/pexels-photo-918643.jpeg",
+      "img2": "https://images.pexels.com/photos/4113894/pexels-photo-4113894.jpeg",
+      "img3": "https://images.pexels.com/photos/1437587/pexels-photo-1437587.jpeg",
+      "dis": "Seasonal Alphonsos — ultra-sweet, rich aroma, limited stock.",
+      "category": "Mangoes",
+      "rating": 4.9,
+      "stock": 25,
+      "brand": "Konkan Gold",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Ankit",
+          "comment": "Pure heaven!",
+          "rating": 5
+        },
+        {
+          "user": "Mona",
+          "comment": "Worth every rupee.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "f7",
+      "title": "Blueberries (125 g)",
+      "name": "BerryGood",
+      "price": 249,
+      "img": "https://images.pexels.com/photos/3820834/pexels-photo-3820834.jpeg",
+      "img1": "https://images.pexels.com/photos/53504/blueberries-fruits-berries-blue-53504.jpeg",
+      "img2": "https://images.pexels.com/photos/678414/pexels-photo-678414.jpeg",
+      "img3": "https://images.pexels.com/photos/102104/pexels-photo-102104.jpeg",
+      "dis": "Plump, antioxidant-rich blueberries.",
+      "category": "Berries",
+      "rating": 4.2,
+      "stock": 70,
+      "brand": "BerryGood",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Vineet",
+          "comment": "Fresh pack, good size.",
+          "rating": 4
+        },
+        {
+          "user": "Sana",
+          "comment": "Loved in pancakes!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "f8",
+      "title": "Strawberries (250 g)",
+      "name": "Hill Berry",
+      "price": 179,
+      "img": "https://images.pexels.com/photos/1028599/pexels-photo-1028599.jpeg",
+      "img1": "https://images.pexels.com/photos/103566/pexels-photo-103566.jpeg",
+      "img2": "https://images.pexels.com/photos/1660227/pexels-photo-1660227.jpeg",
+      "img3": "https://images.pexels.com/photos/1294711/pexels-photo-1294711.jpeg",
+      "dis": "Mahabaleshwar strawberries — perfect for desserts.",
+      "category": "Berries",
+      "rating": 4.4,
+      "stock": 90,
+      "brand": "Hill Berry",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Nidhi",
+          "comment": "Really sweet!",
+          "rating": 5
+        },
+        {
+          "user": "Harsh",
+          "comment": "Some were soft, rest good.",
+          "rating": 4
+        }
+      ]
+    },
+    {
+      "id": "f9",
+      "title": "Watermelon Kiran (1 pc ~2–3 kg)",
+      "name": "HydroFresh",
+      "price": 129,
+      "img": "https://images.pexels.com/photos/46174/watermelon-summer-red-fruit-46174.jpeg",
+      "img1": "https://images.pexels.com/photos/615705/pexels-photo-615705.jpeg",
+      "img2": "https://images.pexels.com/photos/1233319/pexels-photo-1233319.jpeg",
+      "img3": "https://images.pexels.com/photos/615705/pexels-photo-615705.jpeg",
+      "dis": "Naturally sweet, super-hydrating summer favorite.",
+      "category": "Fruits",
+      "rating": 4.1,
+      "stock": 50,
+      "brand": "HydroFresh",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Pooja",
+          "comment": "Juicy and big!",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "title": "Kiwi (3 pcs pack)",
+      "name": "Zespri Partners",
+      "price": 179,
+      "img": "https://images.pexels.com/photos/594590/pexels-photo-594590.jpeg",
+      "img1": "https://images.pexels.com/photos/1437587/pexels-photo-1437587.jpeg",
+      "img2": "https://images.pexels.com/photos/594590/pexels-photo-594590.jpeg",
+      "img3": "https://images.pexels.com/photos/594590/pexels-photo-594590.jpeg",
+      "dis": "Tangy-sweet kiwis packed with vitamin C.",
+      "category": "Fruits",
+      "rating": 4,
+      "stock": 110,
+      "brand": "Zespri Partners",
+      "warranty": "N/A",
+      "reviews": [
+        {
+          "user": "Aarav",
+          "comment": "Good quality.",
+          "rating": 4
+        }
+      ]
+    }
+  ]
+}

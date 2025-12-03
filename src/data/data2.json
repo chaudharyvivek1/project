@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "37d9",
+      "name": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "2b60",
+      "name": "chaudhary",
+      "password": "vivek"
+    },
+    {
+      "id": "73bc",
+      "name": "admin",
+      "password": "admin"
+    },
+    {
+      "id": "4e53",
+      "name": "hi",
+      "password": "hi"
+    },
+    {
+      "id": "c6dd",
+      "name": "hi",
+      "password": "hi"
+    },
+    {
+      "id": "fa8e",
+      "name": "vivek",
+      "password": "vivek"
+    },
+    {
+      "id": "56cf",
+      "name": "123",
+      "password": "123"
+    }
+  ],
+  "users": []
+}
